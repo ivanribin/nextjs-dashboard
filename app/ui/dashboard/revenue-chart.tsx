@@ -1,6 +1,5 @@
 import { CalendarIcon } from "@heroicons/react/24/outline";
 import { generateYAxis } from "@/app/lib/utils";
-import { Revenue } from "@/app/lib/definitions";
 import { fetchRevenue } from "@/app/lib/data";
 import { lusitana } from "@/app/ui/fonts";
 
